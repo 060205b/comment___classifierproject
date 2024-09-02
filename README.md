@@ -48,5 +48,7 @@ Finally, it summarizes the overall sentiment distribution and visualizes these r
 Total Comments: 200
 Total Likes: 2345
 Positive Comments: 120 (60.0 %)
+
 Negative Comments: 50 (25.0 %)
+
 Neutral Comments: 30 (15.0 %)
